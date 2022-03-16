@@ -56,11 +56,11 @@
     "require": {
         "php": "^7.4.3 || ^8.0",
         "composer-runtime-api": "^2.0",
-        "shopware/administration": "~v6.4.0",
-        "shopware/core": "~v6.4.0",
-        "shopware/elasticsearch": "~v6.4.0",
-        "shopware/recovery": "~v6.4.0",
-        "shopware/storefront": "~v6.4.0"
+        "shopware/administration": "v6.4.9",
+        "shopware/core": "v6.4.9",
+        "shopware/elasticsearch": "v6.4.9",
+        "shopware/recovery": "v6.4.9",
+        "shopware/storefront": "v6.4.9"
     },
     "require-dev": {
         "ext-openssl": "*",
